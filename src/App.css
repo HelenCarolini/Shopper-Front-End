@@ -1,0 +1,98 @@
+
+
+
+.inp-qty-product {
+  display: inline !important;
+  width: 13% !important;
+  margin-left: 10px;
+  margin-right: 5px;
+
+}
+
+.row-table-products {
+  padding-top: 65px;
+  
+
+}
+
+.span-stock {
+  padding-left: 20px;
+}
+
+.col-client-name {
+  width: 30%;
+  display: inline-block;
+}
+
+.col-delivery-date {
+  width: 18%;
+  display: inline-block;
+  padding-left: 50px;
+}
+
+.inp-products {
+  display: inline-flex;
+  width: 50%;
+  
+}
+
+.total {
+  float: right;
+  margin-right: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.img-logo {
+  
+  width: 380px;
+  margin-left: 400px;
+}
+
+.col-logo {
+  background-color:#3d3d5e;
+  width: 50% ;
+  flex: auto ;
+  padding: -10px;
+  
+
+  
+}
+
+
+.col-logo-desc {
+  width: 55% ;
+  flex: auto !important;
+  font-size: 35px;
+  margin-top: 92px ;
+  
+}
+
+.row-top {
+  top: -100000px;
+  height: 5px;
+  background-color: #34A77B;
+}
+
+
+
+.container-form {
+  padding-top: 50px;
+}
+
+.btn-add-product {
+  width:50px;
+ 
+}
+
+.row-buttons {
+  padding-top: 40px;
+}
+
+.row-buttons button {
+  width: 140px;
+}
+
+.btn-cancel {
+  float: right;
+}
