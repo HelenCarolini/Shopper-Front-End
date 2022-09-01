@@ -1,7 +1,7 @@
 # Shopper-Front-End
 Shopper
 # Cadastro de Pedido - Shopper
-<img width="1440" alt="Captura de Tela 01 09 2022" src="https://pleasant-creature.surge.sh/">
+https://pleasant-creature.surge.sh/
 
 ## Introdução 
 
