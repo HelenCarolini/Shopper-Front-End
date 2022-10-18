@@ -1,5 +1,10 @@
 # Shopper-Front-End
 Shopper
+
+![Shopper](https://github.com/HelenCarolini/Shopper-Front-End/blob/main/img-shopper-front.png)
+
+
+
 # Cadastro de Pedido - Shopper
 https://pleasant-creature.surge.sh/
 
